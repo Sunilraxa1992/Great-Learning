@@ -12,7 +12,7 @@ public class TechDepartment extends SuperDepartment{
 
 	@Override
 	public String getTodaysWork() {
-		 return "Complete coding of Module 1";
+		 return "Complete coding of module 1";
 	}
 
 	@Override
@@ -22,7 +22,7 @@ public class TechDepartment extends SuperDepartment{
 	
 	public String getTechStackInformation() {
 		
-		return "Core Java";
+		return "core Java";
 	}
 
 }
