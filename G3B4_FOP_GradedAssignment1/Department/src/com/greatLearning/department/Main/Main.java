@@ -8,7 +8,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		AdminDepartment admin = new AdminDepartment();
+	AdminDepartment admin = new AdminDepartment();
         HrDepartment hr = new HrDepartment();
         TechDepartment tech = new TechDepartment();
 
